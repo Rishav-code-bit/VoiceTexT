@@ -40,5 +40,5 @@ Contributions to improve VoiceText are welcome! If you have suggestions for new 
 ## Contact
 
 For any questions or feedback regarding VoiceText, feel free to contact the project maintainer:
-- Rishav Kumar: [GitHub](https://github.com/rishavcodebits) | [LinkedIn](https://www.linkedin.com/in/rishavkumar-/)
+- Rishav Kumar: [GitHub](https://github.com/Rishav-code-bit) | [LinkedIn](https://www.linkedin.com/in/rishavkumar-/)
 
