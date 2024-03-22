@@ -1,8 +1,6 @@
 # VoiceTexT
 VoiceTexT: Your Text-to-Speech Companion
 
-# VoiceText
-
 VoiceText is a simple web application that converts written text into spoken words using text-to-speech technology. It offers an intuitive interface for users to paste or type their text and listen to it being read aloud. This project aims to provide accessibility to written content for individuals with visual impairments, facilitate auditory learning, and offer convenience for multitasking users.
 
 ## Live Demo
@@ -34,10 +32,6 @@ Check out the live demo of VoiceText: [VoiceText Demo](https://voice-text-a01okd
 
 Contributions to improve VoiceText are welcome! If you have suggestions for new features, bug fixes, or any other improvements, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgements
 
 - ResponsiveVoice.js for providing the text-to-speech functionality.
@@ -46,5 +40,5 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 
 For any questions or feedback regarding VoiceText, feel free to contact the project maintainer:
-- Rishav Kumar: [GitHub](https://github.com/rishavcodebits) | [LinkedIn](https://www.linkedin.com/in/rishav-kumar-07/)
+- Rishav Kumar: [GitHub](https://github.com/rishavcodebits) | [LinkedIn](https://www.linkedin.com/in/rishavkumar-/)
 
